@@ -55,8 +55,8 @@ Algorithm: NBAdam Optimizer Update Method
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/nb-adam.git
-   cd nb-adam
+   git clone https://github.com/jpyoo/NBAdam.git
+   cd NBADam
    ```
    
 ### Usage
