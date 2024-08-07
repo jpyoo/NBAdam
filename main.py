@@ -46,7 +46,7 @@ for i, p in enumerate(ps):
   with open(lapd_file_path, 'wb') as f:
       pickle.dump(lapd, f)
 
-# Train model without Layer balancing
+# Train model Layer balancing
 balance_type = 'Layer'
 
 for i, p in enumerate(ps):
@@ -59,7 +59,7 @@ for i, p in enumerate(ps):
   with open(lapd_file_path, 'wb') as f:
       pickle.dump(lapd, f)
 
-# Train model without Layer balancing
+# Train model Inividual balancing
 balance_type = 'Individual'
 
 for i, p in enumerate(ps):
