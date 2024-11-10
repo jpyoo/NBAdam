@@ -1,6 +1,6 @@
 # Neural Balancing Adam Optimizer (NB-Adam)
 
-This repository contains the implementation and experimental results for the paper "Neural Balancing Adam Optimizer (NB-Adam)" authored by J.P. Yoo and Pierre Baldi. The paper introduces a novel optimizer that incorporates synaptic balancing into the training of neural networks, improving both accuracy and stability over standard optimization methods.
+This repository contains the implementation and experimental results for the paper "Neural Balancing Adam Optimizer (NB-Adam)" authored by J.P. Yoo. The paper introduces a novel optimizer that incorporates synaptic balancing into the training of neural networks, improving both accuracy and stability over standard optimization methods.
 
 ## Overview
 
