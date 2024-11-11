@@ -2,6 +2,8 @@
 
 This repository contains the implementation and experimental results for the paper "Neural Balancing Adam Optimizer (NB-Adam)" authored by J.P. Yoo. The paper introduces a novel optimizer that incorporates synaptic balancing into the training of neural networks, improving both accuracy and stability over standard optimization methods.
 
+A more detailed explanation and results can be found [here](https://drive.google.com/file/d/1Q0_jpQUwzvaDOlAyLrG6Cs_FtEvpvMo1/view?usp=sharing).
+
 ## Overview
 
 The NB-Adam optimizer modifies the traditional Adam optimization algorithm by including a balancing mechanism that ensures the Euclidean norms of incoming and outgoing weights at each neuron are equal throughout training. This self-regularizing feature enhances model performance significantly, particularly in complex neural network architectures.
@@ -137,11 +139,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - J.P. Yoo - jpyoo@uci.edu
-
-We hope this optimizer aids in your research and practical applications!
-```
-
-This README provides essential information about the project, setup instructions, usage details, and contribution guidelines, aimed at helping users and potential collaborators understand and engage with your work effectively. Adjust the repository structure and sections as needed to align with your project's specifics.
 
 We hope this optimizer aids in your research and practical applications!
 
